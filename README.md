@@ -14,6 +14,7 @@ Create an issue if you want a new feature or a PR if you want to add your projec
 - [Save to read later Bot 🔖](https://bsky.app/profile/savetoread.bsky.social) by: [@kr1s](https://github.com/Cristuker)
 - [Open Handles](https://handles.domi.zip/) by: [@slickdomique](https://github.com/SlickDomique)
 - [#bolhadev](https://bsky.app/profile/bolhadev.com) by: [@xburgr](https://bsky.app/profile/did:plc:7mcf3jopjztipcusxgeaj2vy)
+- [Remote Jobs Repost](https://bsky.app/profile/remotejobs.bsky.social) by: [@alexandreleites](https://bsky.app/profile/did:plc:rpznpgbbs5dx6fmfqmdmy4l6)
 
 ### 🚧 WIP
 
