@@ -17,6 +17,12 @@ Create an issue if you want a new feature or a PR if you want to add your projec
 - [Remote Jobs Repost](https://bsky.app/profile/remotejobs.bsky.social) by: [@alexandreleites](https://bsky.app/profile/did:plc:rpznpgbbs5dx6fmfqmdmy4l6)
 - [Screenshot This Bsky](https://github.com/developerdavi/screenshot-this-bsky) by: [@developerdavi](https://github.com/developerdavi)
 - [1-Click Block](https://github.com/omurilo/bsky-one-click-block) by: [@omurilo.dev](https://bsky.app/profile/omurilo.dev)
+- [pessoas.dev](https://pessoas.dev) by: [@joseli.to](https://bsky.app/profile/joseli.to)
+- [ceuazul.online](https://ceuazul.online) by: [@joseli.to](https://bsky.app/profile/joseli.to)
+- [sorteios.blue](https://sorteios.blue) by: [@joseli.to](https://bsky.app/profile/joseli.to)
+- [share.notx.blue](https://[share.notx.blue) by: [@joseli.to](https://bsky.app/profile/joseli.to)
+- [trending.notx.blue](https://[trending.notx.blue) by: [@joseli.to](https://bsky.app/profile/joseli.to)
+
 
 ### 🚧 WIP
 
