@@ -13,6 +13,7 @@ Create an issue if you want a new feature or a PR if you want to add your projec
 - [Catiorros Bot 🐶](https://bsky.app/profile/did:plc:uyxcilaeh56er653ip7bkpiv) by: [@davidambz](https://github.com/davidambz)
 - [Save to read later Bot 🔖](https://bsky.app/profile/savetoread.bsky.social) by: [@kr1s](https://github.com/Cristuker)
 - [Open Handles](https://handles.domi.zip/) by: [@slickdomique](https://github.com/SlickDomique)
+- [#bolhadev](https://bsky.app/profile/bolhadev.com) by: [@xburgr](https://bsky.app/profile/did:plc:7mcf3jopjztipcusxgeaj2vy)
 
 ### 🚧 WIP
 
