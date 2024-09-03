@@ -13,4 +13,4 @@ Create an issue if you want a new feature!
 
 ### WIP:
 
-- [Bluesky Manager Followers](https://github.com/lunaperegrina/bluesky-followers)
+- [Bluesky Manager Followers](https://github.com/lunaperegrina/bluesky-followers) by: [@lunaperegrina](https://github.com/lunaperegrina) and [@lugonpedro](https://github.com/lugonpedro)
