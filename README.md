@@ -10,6 +10,7 @@ Create an issue if you want a new feature or a PR if you want to add your projec
 - [Repost Bot (Local)](https://github.com/samsantosb/Local-Bluesky-Repost-Bot) by: [@samsantosb](https://github.com/samsantosb)
 - [Repost Bot (Vercel)](https://github.com/samsantosb/Bluesky-Repost-Bot) by: [@samsantosb](https://github.com/samsantosb)
 - [Bookmark Bot](https://bsky.app/profile/did:plc:ugr4cq2txrfg4cdro2axjgie) by: [@duca.dev](https://bsky.app/profile/did:plc:meo7jkjahpczfoo5kcs5ieeh)
+- [Catiorros Bot 🐶](https://bsky.app/profile/did:plc:uyxcilaeh56er653ip7bkpiv) by: [@davidambz](https://github.com/davidambz)
 
 ### 🚧 WIP
 
