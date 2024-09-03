@@ -2,7 +2,7 @@
 
 Place here links of repos with features involving BlueSky that you like!
 
-Create an issue if you want a new feature!
+Create an issue if you want a new feature or a PR if you want to add your project to this list!
 
 ### ✅ READY
 
