@@ -15,6 +15,7 @@ Create an issue if you want a new feature or a PR if you want to add your projec
 - [Open Handles](https://handles.domi.zip/) by: [@slickdomique](https://github.com/SlickDomique)
 - [#bolhadev](https://bsky.app/profile/bolhadev.com) by: [@xburgr](https://bsky.app/profile/did:plc:7mcf3jopjztipcusxgeaj2vy)
 - [Screenshot This Bsky](https://github.com/developerdavi/screenshot-this-bsky) by: [@developerdavi](https://github.com/developerdavi)
+- [1-Click Block](https://github.com/omurilo/bsky-one-click-block) by: [@omurilo.dev](https://bsky.app/profile/omurilo.dev)
 
 ### 🚧 WIP
 
