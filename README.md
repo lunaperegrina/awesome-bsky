@@ -85,6 +85,7 @@ Place here links of repos with features involving BlueSky that you like!
 | [CBLOL](https://bsky.app/profile/pedrofracassi.dev/feed/cblol)|  [Link](https://github.com/pedrofracassi/bluesky-cblol-feed) | CBLOL related posts |[@pedrofracassi](https://github.com/pedrofracassi)|
 | [Valorant](https://bsky.app/profile/leo.vlr.social/feed/valorant) |  [Link](https://github.com/leojacondev/valorant-bsky-feed) | Valorant related posts |[@leojacondev](https://github.com/leojacondev)|
 | [Bluesky Feed Creator](https://blueskyfeedcreator.com/)| / | Quickly design and customize your Bluesky feeds, no coding knowledge required | / |
+| [ArtigosDev](https://blueskyfeedcreator.com/)| / | Feed that lists technology articles focused on development | / |
 
 ### 🖥️ Alternative Clients
 
