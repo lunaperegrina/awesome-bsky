@@ -35,7 +35,7 @@ Place here links of repos with features involving BlueSky that you like!
 | [Catiorros Bot](https://bsky.app/profile/did:plc:uyxcilaeh56er653ip7bkpiv) | / | Dogs pics |[@davidambz](https://github.com/davidambz)|
 | [Save to read](https://bsky.app/profile/savetoread.bsky.social) | / | Bot to save your posts | [@kr1s](https://github.com/Cristuker)      |
 | [Remote Jobs Repost](https://bsky.app/profile/remotejobs.bsky.social) |  / | 100% remote job repost bot |[@alexandreleites](https://bsky.app/profile/did:plc:rpznpgbbs5dx6fmfqmdmy4l6)|
-| [PoptimeDEV](https://github.com/JoaquimCassano/PoptimeDEV-2.0) |  [Link](https://github.com/JoaquimCassano/PoptimeDEV-2.0) | / |[@JoaquimCassano](https://github.com/JoaquimCassano)|
+| [PoptimeDEV](https://github.com/JoaquimCassano/PoptimeDEV-2.0) |  [Link](https://github.com/JoaquimCassano/PoptimeDEV-2.0) | A bot that uses GPT-4o-Mini to post news about the brazilian's "bolha dev" |[@JoaquimCassano](https://github.com/JoaquimCassano)|
 | [Screenshot This](https://bsky.app/profile/screenshotthis.dev) |  [Link](https://github.com/developerdavi/screenshot-this-bsky) | Tag me on any post and I'll send you some kind of a screenshot of it |[@developerdavi](https://github.com/developerdavi)|
 | [Galvão](https://bsky.app/profile/galvaobot.fracas.si) | [Link](https://github.com/pedrofracassi/galvao-bluesky-bot) |Diga lá, Tino! |[@pedrofracassi](https://github.com/pedrofracassi) |
 | [Quero Assistir](https://github.com/eletroswing/queroassistir) | [Link](https://github.com/eletroswing/queroassistir) | / |[@eletroswing](https://github.com/pedrofracassi) |
