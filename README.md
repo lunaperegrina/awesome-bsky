@@ -18,7 +18,7 @@ Place here links of repos with features involving BlueSky that you like!
     - [🔧 Tools](#-tools)
     - [🆔 Identity](#-identity)
     - [📰 Feeds](#-feeds)
-    - [🖥️ Alternative Clients](#️-alternative-clients)
+    - [🖥️ Alternative Clients](#-alternative-clients)
     - [🚧 WIP](#-wip)
 
 ---
@@ -88,6 +88,7 @@ Place here links of repos with features involving BlueSky that you like!
 | [Valorant](https://bsky.app/profile/leo.vlr.social/feed/valorant) |  [Link](https://github.com/leojacondev/valorant-bsky-feed) | Valorant related posts |[@leojacondev](https://github.com/leojacondev)|
 | [Bluesky Feed Creator](https://blueskyfeedcreator.com/)| / | Quickly design and customize your Bluesky feeds, no coding knowledge required | / |
 | [ArtigosDev](https://bsky.app/profile/marlonhenq.dev/feed/artigosdev)| / | Feed that lists technology articles focused on development | / |
+| [Bluesky My Pin Feed](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt/feed/my-pins)| / | A feed of posts you've replied to with a 📌. | [@ericvolp12](https://github.com/ericvolp12)|
 
 ### 🖥️ Alternative Clients
 
