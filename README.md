@@ -46,6 +46,7 @@ Place here links of repos with features involving BlueSky that you like!
 |:----------:|:-------------:|:------:|:------:|
 |[1-Click Block](https://github.com/omurilo/bsky-one-click-block) | [Link](https://github.com/omurilo/bsky-one-click-block) | A extension to browser one click block user on Bluesky |[@omurilo.dev](https://bsky.app/profile/omurilo.dev)|
 | [Redirect Twitter Share to Bluesky](https://share.notx.blue) | /  | Replace "Share to Twitter/X" for Bluesky |[@joseli.to](https://bsky.app/profile/joseli.to)|
+| [BetterBlueSky](https://chromewebstore.google.com/detail/fhhemmnelinfackmepdnjandhfpojibp) | [Link](https://github.com/Nem-Tudo/betterbluesky_extension)  | Add trending Topics |[@nemtudo.me](https://bsky.app/profile/nemtudo.me)|
 
 
 ### 🌐 Handlers
