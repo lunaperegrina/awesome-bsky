@@ -17,6 +17,7 @@ Create an issue if you want a new feature or a PR if you want to add your projec
 - [Remote Jobs Repost](https://bsky.app/profile/remotejobs.bsky.social) by: [@alexandreleites](https://bsky.app/profile/did:plc:rpznpgbbs5dx6fmfqmdmy4l6)
 - [Screenshot This Bsky](https://github.com/developerdavi/screenshot-this-bsky) by: [@developerdavi](https://github.com/developerdavi)
 - [1-Click Block](https://github.com/omurilo/bsky-one-click-block) by: [@omurilo.dev](https://bsky.app/profile/omurilo.dev)
+- [PoptimeDEV](https://github.com/JoaquimCassano/PoptimeDEV-2.0) by:[@JoaquimCassano](https://github.com/JoaquimCassano)
 
 ### 🚧 WIP
 
