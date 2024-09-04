@@ -18,6 +18,7 @@ Create an issue if you want a new feature or a PR if you want to add your projec
 - [Screenshot This Bsky](https://github.com/developerdavi/screenshot-this-bsky) by: [@developerdavi](https://github.com/developerdavi)
 - [1-Click Block](https://github.com/omurilo/bsky-one-click-block) by: [@omurilo.dev](https://bsky.app/profile/omurilo.dev)
 - [pessoas.dev (Community Handle)](https://pessoas.dev) by: [@joseli.to](https://bsky.app/profile/joseli.to)
+- [codafofo.xyz (Community Handle)](https://codafofo.xyz) by: [@joseli.to](https://bsky.app/profile/joseli.to)
 - [ceuazul.online (Community Handle)](https://ceuazul.online) by: [@joseli.to](https://bsky.app/profile/joseli.to)
 - [SkyPicker (Raffles)](https://skypicker.site) by: [@joseli.to](https://bsky.app/profile/joseli.to)
 - [Redirect Twitter Share to Bluesky (Browser Extension)](https://share.notx.blue) by: [@joseli.to](https://bsky.app/profile/joseli.to)
