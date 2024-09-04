@@ -5,8 +5,6 @@ Place here links of repos with features involving BlueSky that you like!
 Create an issue if you want a new feature or a PR if you want to add your project to this list!
 Please, insert a description too :)
 
-### ✅ READY
-
 ### 🤖 BOT
 
 - [Scheduler Bot (Local)](https://github.com/matheuslf/spring.boot.scheduler.bluesky) by: [@matheuslf](https://github.com/matheuslf)
