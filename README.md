@@ -17,6 +17,7 @@ Please, insert a description too :)
 - [Remote Jobs Repost](https://bsky.app/profile/remotejobs.bsky.social) by: [@alexandreleites](https://bsky.app/profile/did:plc:rpznpgbbs5dx6fmfqmdmy4l6)
 - [PoptimeDEV](https://github.com/JoaquimCassano/PoptimeDEV-2.0) by:[@JoaquimCassano](https://github.com/JoaquimCassano)
 - [Screenshot This Bsky](https://github.com/developerdavi/screenshot-this-bsky) by: [@developerdavi](https://github.com/developerdavi)
+- [Quero Assistir](https://github.com/eletroswing/queroassistir) by: [@eletroswing](https://github.com/eletroswing)
 
 ### ＠ HANDLERS
   
