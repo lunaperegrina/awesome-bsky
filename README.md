@@ -10,14 +10,16 @@ Place here links of repos with features involving BlueSky that you like!
 
 ### Contents
 
-- [Bots](#-Bots)
-- [Extensions](#-Extensions)
-- [Handlers](#-Handlers)
-- [Tools](#-Tools)
-- [Identity](#-Identity)
-- [Feeds](#-Feeds)
-- [Alternative Clients](#%EF%B8%8F-alternative-clients)
-- [WIP](#-WIP)
+- [Indexer of Bluesky external repos!](#indexer-of-bluesky-external-repos)
+    - [Contents](#contents)
+    - [🤖 Bots](#-bots)
+    - [🧩 Extensions](#-extensions)
+    - [🌐 Handlers](#-handlers)
+    - [🔧 Tools](#-tools)
+    - [🆔 Identity](#-identity)
+    - [📰 Feeds](#-feeds)
+    - [🖥️ Alternative Clients](#-alternative-clients)
+    - [🚧 WIP](#-wip)
 
 ---
 
@@ -85,6 +87,8 @@ Place here links of repos with features involving BlueSky that you like!
 | [CBLOL](https://bsky.app/profile/pedrofracassi.dev/feed/cblol)|  [Link](https://github.com/pedrofracassi/bluesky-cblol-feed) | CBLOL related posts |[@pedrofracassi](https://github.com/pedrofracassi)|
 | [Valorant](https://bsky.app/profile/leo.vlr.social/feed/valorant) |  [Link](https://github.com/leojacondev/valorant-bsky-feed) | Valorant related posts |[@leojacondev](https://github.com/leojacondev)|
 | [Bluesky Feed Creator](https://blueskyfeedcreator.com/)| / | Quickly design and customize your Bluesky feeds, no coding knowledge required | / |
+| [ArtigosDev](https://bsky.app/profile/marlonhenq.dev/feed/artigosdev)| / | Feed that lists technology articles focused on development | / |
+| [Bluesky My Pin Feed](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt/feed/my-pins)| / | A feed of posts you've replied to with a 📌. | [@ericvolp12](https://github.com/ericvolp12)|
 
 ### 🖥️ Alternative Clients
 
