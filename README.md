@@ -22,17 +22,19 @@ Please, insert a description too :)
 ### ＠ HANDLERS
   
 - [Open Handles](https://handles.domi.zip/) by: [@slickdomique](https://github.com/SlickDomique)
+- [pessoas.dev (Community Handle)](https://pessoas.dev) by: [@joseli.to](https://bsky.app/profile/joseli.to)
+- [codafofo.xyz (Community Handle)](https://codafofo.xyz) by: [@joseli.to](https://bsky.app/profile/joseli.to)
+- [ceuazul.online (Community Handle)](https://ceuazul.online) by: [@joseli.to](https://bsky.app/profile/joseli.to)
 
 ### 🧩 EXTENSIONS
 
 - [1-Click Block](https://github.com/omurilo/bsky-one-click-block) by: [@omurilo.dev](https://bsky.app/profile/omurilo.dev)
-- [pessoas.dev (Community Handle)](https://pessoas.dev) by: [@joseli.to](https://bsky.app/profile/joseli.to)
-- [codafofo.xyz (Community Handle)](https://codafofo.xyz) by: [@joseli.to](https://bsky.app/profile/joseli.to)
-- [ceuazul.online (Community Handle)](https://ceuazul.online) by: [@joseli.to](https://bsky.app/profile/joseli.to)
-- [SkyPicker (Raffles)](https://skypicker.site) by: [@joseli.to](https://bsky.app/profile/joseli.to)
 - [Redirect Twitter Share to Bluesky (Browser Extension)](https://share.notx.blue) by: [@joseli.to](https://bsky.app/profile/joseli.to)
-- ["Trending Topics"](https://trending.notx.blue) by: [@joseli.to](https://bsky.app/profile/joseli.to)
 
+### 💻 SITES
+
+- ["Trending Topics"](https://trending.notx.blue) by: [@joseli.to](https://bsky.app/profile/joseli.to)
+- [SkyPicker (Raffles)](https://skypicker.site) by: [@joseli.to](https://bsky.app/profile/joseli.to)
 
 ### 🚧 WIP
 
