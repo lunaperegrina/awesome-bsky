@@ -30,7 +30,6 @@ Place here links of repos with features involving BlueSky that you like!
 | [Scheduler Bot (Local)](https://github.com/matheuslf/spring.boot.scheduler.bluesky) |  [Link](https://github.com/matheuslf/spring.boot.scheduler.bluesky) | Post scheduler for Bluesky, developed in Spring Boot |  [@matheuslf](https://github.com/matheuslf)     |
 | [Repost Bot (Local)](https://github.com/samsantosb/Local-Bluesky-Repost-Bot) |    [Link](https://github.com/samsantosb/Local-Bluesky-Repost-Bot)   | A repost for Bluesky | [@samsantosb](https://github.com/samsantosb) |
 | [Repost Bot (Vercel)](https://github.com/samsantosb/Bluesky-Repost-Bot) | [Link](https://github.com/samsantosb/Bluesky-Repost-Bot) | A repost for Bluesky | [@samsantosb](https://github.com/samsantosb) |
-| [#bolhadev](https://bsky.app/profile/bolhadev.com) | / | Share BolhaDev posts |[@xburgr](https://bsky.app/profile/did:plc:7mcf3jopjztipcusxgeaj2vy)|
 | [Bookmark Bot](https://bsky.app/profile/did:plc:ugr4cq2txrfg4cdro2axjgie) | / |Save the post by saying "bookmark" and tagging the bot!|[@duca.dev](https://bsky.app/profile/did:plc:meo7jkjahpczfoo5kcs5ieeh)|
 | [Catiorros Bot](https://bsky.app/profile/did:plc:uyxcilaeh56er653ip7bkpiv) | / | Dogs pics |[@davidambz](https://github.com/davidambz)|
 | [Save to read](https://bsky.app/profile/savetoread.bsky.social) | / | Bot to save your posts | [@kr1s](https://github.com/Cristuker)      |
