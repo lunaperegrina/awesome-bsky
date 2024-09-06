@@ -57,6 +57,7 @@ Place here links of repos with features involving BlueSky that you like!
 | [codafofo.dev](codafofo.dev) | [Link](https://github.com/developerdavi/codafofo.dev) | codafofo.dev community handle for bluesky |[@developerdavi](https://github.com/developerdavi)|
 | [pessoas.dev](https://pessoas.dev) | / |pessoas.dev community handle for bluesky |[@joseli.to](https://bsky.app/profile/joseli.to)|
 | [ceuazul.online](https://ceuazul.online) | / |ceuazul.online community handle for bluesky |[@joseli.to](https://bsky.app/profile/joseli.to)|
+| [bolhadev.com](https://bolhadev.com) | / |bolhadev.com community handle for bluesky |[@xburgr](https://bsky.app/profile/did:plc:7mcf3jopjztipcusxgeaj2vy)|
 
 ### 🔧 Tools
 
