@@ -96,6 +96,8 @@ Place here links of repos with features involving BlueSky that you like!
 |:----------:|:-------------:|:------:|:------:|
 | [deck.blue](https://deck.blue/) |  / | Web client with column view | [@gildaswise](https://bsky.app/profile/gildaswise.com) |
 | [TOKIMEKI](https://tokimekibluesky.vercel.app/) |  / | Web client | / |
+| [Graysky](https://graysky.app/) | [Link](https://github.com/mozzius/graysky) | Mobile Client | [@mozzius](https://github.com/mozzius) |
+| [Skeetdeck](https://skeetdeck.pages.dev/) | [Link](https://codeberg.org/mary-ext/skeetdeck) | Tweetdeck-like Client | [mary-ext](https://codeberg.org/mary-ext) |
 
 ### 🚧 WIP
 
