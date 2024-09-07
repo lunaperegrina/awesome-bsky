@@ -5,7 +5,7 @@ Place here links of repos with features involving BlueSky that you like!
 
 > Create an [issue](https://github.com/lunaperegrina/awesome-bsky/issues/new/choose) if you want a new feature or a [PR](https://github.com/lunaperegrina/awesome-bsky/compare) if you want to add your project to this list! Please, insert a description too :)
 
-> [!WARNING]  
+> [!WARNING]
 > Never use your main password to access services, only use the [app-passwords](https://bsky.app/settings/app-passwords).
 
 ### Contents
@@ -38,6 +38,7 @@ Place here links of repos with features involving BlueSky that you like!
 | [Screenshot This](https://bsky.app/profile/screenshotthis.dev) |  [Link](https://github.com/developerdavi/screenshot-this-bsky) | Tag me on any post and I'll send you some kind of a screenshot of it |[@developerdavi](https://github.com/developerdavi)|
 | [Galvão](https://bsky.app/profile/galvaobot.fracas.si) | [Link](https://github.com/pedrofracassi/galvao-bluesky-bot) |Diga lá, Tino! |[@pedrofracassi](https://github.com/pedrofracassi) |
 | [Quero Assistir](https://github.com/eletroswing/queroassistir) | [Link](https://github.com/eletroswing/queroassistir) | / |[@eletroswing](https://github.com/pedrofracassi) |
+| [Vampetaço](https://bsky.app/profile/k8adev.pro) | [Link](https://github.com/k8adev/bluesky-vampetaco-bot) | Use #vampetaço | [@k8adev](https://github.com/k8adev/) |
 
 ### 🧩 Extensions
 
