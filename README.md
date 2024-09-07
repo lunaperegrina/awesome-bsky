@@ -38,6 +38,7 @@ Place here links of repos with features involving BlueSky that you like!
 | [Screenshot This](https://bsky.app/profile/screenshotthis.dev) |  [Link](https://github.com/developerdavi/screenshot-this-bsky) | Tag me on any post and I'll send you some kind of a screenshot of it |[@developerdavi](https://github.com/developerdavi)|
 | [Galvão](https://bsky.app/profile/galvaobot.fracas.si) | [Link](https://github.com/pedrofracassi/galvao-bluesky-bot) |Diga lá, Tino! |[@pedrofracassi](https://github.com/pedrofracassi) |
 | [Quero Assistir](https://github.com/eletroswing/queroassistir) | [Link](https://github.com/eletroswing/queroassistir) | / |[@eletroswing](https://github.com/pedrofracassi) |
+| [Go Vagas](https://github.com/wiliamvj/go-vagas) |  [Link](https://github.com/wiliamvj/go-vagas) | Repost de vagas da linguagem Go |[@wiliamvj](https://github.com/wiliamvj)|
 
 ### 🧩 Extensions
 
