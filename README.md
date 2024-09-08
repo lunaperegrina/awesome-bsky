@@ -7,7 +7,7 @@ Coloque links de repositórios com features que você goste envolvendo o Bluesky
 
 > Crie uma [issue](https://github.com/lunaperegrina/awesome-bsky/issues/new/choose) se você quer uma nova feature ou um [PR](https://github.com/lunaperegrina/awesome-bsky/compare) se quiser adicionar seu projeto a essa lista! Por favor, coloque uma descrição também :)
 
-> [!AVISO]  
+> [!WARNING]  
 > Nunca use sua senha principal para acessar serviços, use apenas [Senhas de Aplicativo](https://bsky.app/settings/app-passwords).
 
 ### Conteúdos
