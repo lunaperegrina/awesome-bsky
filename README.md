@@ -56,10 +56,11 @@ Coloque links de repositórios com features que você goste envolvendo o Bluesky
 
 | Serviço | Repositório | Descrição | Mantenedor|
 |:----------:|:-------------:|:------:|:------:|
-| [Open Handlers](https://handles.domi.zip/)|  [Link](https://github.com/SlickDomique/open-handles) | Consiga handles costumizados para o Bluesky |[@SlickDomique](https://github.com/SlickDomique)|
-| [codafofo.dev](codafofo.dev) | [Link](https://github.com/developerdavi/codafofo.dev) | codafofo.dev - handle comunitário para o Bluesky |[@developerdavi](https://github.com/developerdavi)|
-| [pessoas.dev](https://pessoas.dev) | / |pessoas.dev - handle comunitário para o Bluesky |[@joseli.to](https://bsky.app/profile/joseli.to)|
-| [ceuazul.online](https://ceuazul.online) | / |ceuazul.online - handle comunitário para o Bluesky |[@joseli.to](https://bsky.app/profile/joseli.to)|
+| [Open Handlers](https://handles.domi.zip/)|  [Link](https://github.com/SlickDomique/open-handles) | Get customised BlueSky handles |[@SlickDomique](https://github.com/SlickDomique)|
+| [codafofo.dev](codafofo.dev) | [Link](https://github.com/developerdavi/codafofo.dev) | codafofo.dev community handle for bluesky |[@developerdavi](https://github.com/developerdavi)|
+| [pessoas.dev](https://pessoas.dev) | / |pessoas.dev community handle for bluesky |[@joseli.to](https://bsky.app/profile/joseli.to)|
+| [ceuazul.online](https://ceuazul.online) | / |ceuazul.online community handle for bluesky |[@joseli.to](https://bsky.app/profile/joseli.to)|
+| [comunidade.dev.br](https://comunidade.dev.br) | [Link](https://github.com/daniloraisi/comunidade.dev.br) | comunidade.dev.br - handle comunitário para o Bluesky | [@raisiexception.dev.br](https://bsky.app/profile/raisiexception.dev.br) |
 
 ### 🔧 Ferramentas
 
