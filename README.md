@@ -60,7 +60,8 @@ Coloque links de repositórios com features que você goste envolvendo o Bluesky
 | [codafofo.dev](codafofo.dev) | [Link](https://github.com/developerdavi/codafofo.dev) | codafofo.dev community handle for bluesky |[@developerdavi](https://github.com/developerdavi)|
 | [pessoas.dev](https://pessoas.dev) | / |pessoas.dev community handle for bluesky |[@joseli.to](https://bsky.app/profile/joseli.to)|
 | [ceuazul.online](https://ceuazul.online) | / |ceuazul.online community handle for bluesky |[@joseli.to](https://bsky.app/profile/joseli.to)|
-| [comunidade.dev.br](https://comunidade.dev.br) | [Link](https://github.com/daniloraisi/comunidade.dev.br) | comunidade.dev.br - handle comunitário para o Bluesky | [@raisiexception.dev.br](https://bsky.app/profile/raisiexception.dev.br) |
+| [comunidade.dev.br](https://comunidade.dev.br) | [Link](https://github.com/daniloraisi/community-handles) | comunidade.dev.br - handle comunitário para devs para o Bluesky | [@raisiexception.dev.br](https://bsky.app/profile/raisiexception.dev.br) |
+| [comunidade.blue](https://comunidade.blue) | [Link](https://github.com/daniloraisi/community-handles) | comunidade.blue - handle comunitário de uso geral para o Bluesky | [@raisiexception.dev.br](https://bsky.app/profile/raisiexception.dev.br) |
 
 ### 🔧 Ferramentas
 
