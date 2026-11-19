@@ -64,6 +64,7 @@ Place here links of repos with features involving BlueSky that you like!
 | [ceuazul.online](https://ceuazul.online) | / |ceuazul.online community handle for bluesky |[@joseli.to](https://bsky.app/profile/joseli.to)|
 | [comunidade.dev.br](https://comunidade.dev.br) | [Link](https://github.com/daniloraisi/community-handles) | comunidade.dev.br dev community handle for bluesky | [@raisiexception.dev.br](https://bsky.app/profile/raisiexception.dev.br) |
 | [comunidade.blue](https://comunidade.blue) | [Link](https://github.com/daniloraisi/community-handles) | comunidade.blue genreral purpose community handle for bluesky | [@raisiexception.dev.br](https://bsky.app/profile/raisiexception.dev.br) |
+| [Bluesky.bot](https://bluesky.bot) | / | Provides free `name.bluesky.bot` handles for Bluesky bots and an opt-in public directory. | [@pirmax](https://github.com/pirmax) |
 
 
 ### 🔧 Tools
